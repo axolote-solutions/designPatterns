@@ -249,7 +249,7 @@ And finally, we need a way to build the book, because until now we have builders
 ```
 
 Ok, sounds good (really?), but how do we use it?
-Obviously, build a unit test.
+Obviously, building a unit test.
 
 ```java
 class BookTest {
@@ -307,5 +307,5 @@ Now we have a book that contains only the attributes we know at the moment of it
                 .build();
 ```
 
-But this is only the beginning.
+However, this is just the beginning.
 
