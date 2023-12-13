@@ -1,6 +1,6 @@
 # Builder design pattern
 
-[In the previous article](/creational/builder.md), we discovered the main idea behind the builder pattern and illustrated it with a basic example (probably the most simple way to do it).
+[In the previous article](./builder.md), we discovered the main idea behind the builder pattern and illustrated it with a basic example (probably the most simple way to do it).
 
 But is it a good idea to have our `builder class` inside the `class to build`? I mean is it a good idea to define `Builder` inside `Book.java`?
 

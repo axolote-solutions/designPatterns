@@ -307,5 +307,5 @@ Now we have a book that contains only the attributes we know at the moment of it
                 .build();
 ```
 
-However, this is just the beginning.
+[However, this is just the beginning.](./builder2.md)
 
